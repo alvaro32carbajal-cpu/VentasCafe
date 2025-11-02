@@ -1,4 +1,4 @@
-hour_of_day;cash_type;money;coffee_name;Time_of_Day;Weekday;Month_name;Weekdaysort;Monthsort;Date;Time
+hour of day;cash type;money;coffee name;Time of Day;Weekday;Month name;Weekdaysort;Monthsort;Date;Time
 10;card;38.7;Latte;Morning;Fri;Mar;5;3;1/03/2024;15:50.5
 12;card;38.7;Hot Chocolate;Afternoon;Fri;Mar;5;3;1/03/2024;19:22.5
 12;card;38.7;Hot Chocolate;Afternoon;Fri;Mar;5;3;1/03/2024;20:18.1
